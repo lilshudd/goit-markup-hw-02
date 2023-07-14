@@ -1,11 +1,13 @@
 body {
+    font-family: 'Raleway', sans-serif;
     font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
 
 :root {
-    background: white;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .link {
