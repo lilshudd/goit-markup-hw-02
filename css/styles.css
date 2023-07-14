@@ -67,6 +67,7 @@ body {
     line-height: 107.142857%;
     /* 60/56 */
     letter-spacing: 0.02em;
+    text-transform: capitalize;
     text-align: center;
 }
 
@@ -97,6 +98,7 @@ body {
     line-height: 120%;
     /* 24/20 */
     letter-spacing: 0.02em;
+    text-transform: capitalize;
 }
 
 .project-item-text {
@@ -118,6 +120,7 @@ body {
     line-height: 111.111111%;
     /* 40/36 */
     letter-spacing: 0.02em;
+    text-transform: capitalize;
     text-align: center;
 }
 
@@ -139,6 +142,7 @@ body {
     line-height: 111.111111%;
     /* 40/36 */
     letter-spacing: 0.02em;
+    text-transform: capitalize;
     text-align: center;
 }
 
@@ -155,6 +159,7 @@ body {
     line-height: 120%;
     /* 24/20 */
     letter-spacing: 0.02em;
+    text-transform: capitalize;
 }
 
 .team-item-text {
@@ -231,6 +236,7 @@ body {
     line-height: 120%;
     /* 24/20 */
     letter-spacing: 0.02em;
+    text-transform: capitalize;
 }
 
 .sell-item-text {
