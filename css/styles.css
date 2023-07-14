@@ -4,7 +4,9 @@ body {
     background-color: #FFFFFF;
 }
 
-:root {}
+:root {
+    background: white;
+}
 
 .link {
     text-decoration: none;
@@ -34,7 +36,7 @@ body {
 }
 
 .syniu {
-    color: #F4F4FD;
+    color: #4d5ae5;
 }
 
 .header-link {
@@ -187,7 +189,7 @@ body {
 }
 
 .footer-logo {
-    color: #4d5ae5;
+    color: #F4F4FD;
     font-size: 18px;
     font-weight: 800;
     line-height: 1.17;
