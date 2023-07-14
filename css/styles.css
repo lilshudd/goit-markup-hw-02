@@ -1,0 +1,269 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+
+/* ------------HEADER------------- */
+.header-logo {
+    color: #2E2F42;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+}
+
+.syniu {
+    color: #4D5AE5;
+}
+
+.header-link {
+    color: #2E2F42;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 150%;
+    /* 24/16 */
+    letter-spacing: 0.02em;
+}
+
+.header-soc-link {
+    color: #434455;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 150%;
+    /* 24/16 */
+    letter-spacing: 0.02em;
+}
+
+/* ------------HERO------------- */
+.hero {
+    background-color: #2E2F42;
+}
+
+.hero-title {
+    color: #FFFFFF;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 107.142857%;
+    /* 60/56 */
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.hero-btn {
+    background-color: #4D5AE5;
+    box-shadow: 0px 4px 4px 0px #00000026;
+}
+
+.btn-txt {
+    color: white;
+    width: 105px;
+    height: 24px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 150%;
+    /* 24/16 */
+    letter-spacing: 0.04em;
+}
+
+/* ------------PROJECT------------- */
+
+.project {}
+
+.project-list {}
+
+.project-subtitle {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 120%;
+    /* 24/20 */
+    letter-spacing: 0.02em;
+}
+
+.project-item-text {
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+    /* 24/16 */
+    letter-spacing: 0.02em;
+}
+
+/* ------------DEVICES------------- */
+.devices {}
+
+.dev-title {
+    color: #2E2F42;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 111.111111%;
+    /* 40/36 */
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.dev-list {}
+
+.dev-photo {}
+
+/* ------------TEAM------------- */
+
+
+.team {
+    background-color: #F4F4FD;
+}
+
+.team-title {
+    color: #2E2F42;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 111.111111%;
+    /* 40/36 */
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.team-list {}
+
+.team-item {
+    background-color: #FFFFFF;
+    width: 264px;
+    height: 380px;
+    top: 1780px;
+    left: 156px;
+    padding: 0px 0px 32px 0px;
+    border-radius: 0px 0px 4px 4px;
+    gap: 32px;
+    box-shadow: 0px 2px 1px 0px #2E2F4214;
+
+    box-shadow: 0px 1px 1px 0px #2E2F4229;
+
+    box-shadow: 0px 1px 6px 0px #2E2F4214;
+}
+
+.team-subtitle {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 120%;
+    /* 24/20 */
+    letter-spacing: 0.02em;
+}
+
+.team-item-text {
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+    /* 24/16 */
+    letter-spacing: 0.02em;
+}
+
+/* ------------FOOTER------------- */
+.footer {
+    background-color: #2E2F42;
+}
+
+.footer-text {
+    color: #F4F4FD;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+    /* 24/16 */
+    letter-spacing: 0.02em;
+}
+
+.footer-logo {
+    color: #F4F4FD;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 116.666667%;
+    /* 21/18 */
+    letter-spacing: 0.03em;
+}
+
+/* ------------Portfolio------------- */
+
+/* ------------BUTTONS------------- */
+.buttons {
+    width: 586px;
+    height: 48px;
+    top: 168px;
+    left: 427px;
+    gap: 24px;
+}
+
+.btn-buttons {
+    background-color: #F4F4FD;
+    border: 1px solid #E7E9FC;
+    padding: 12px 24px 12px 24px;
+    border-radius: 4px;
+    border: 1px;
+    cursor: pointer;
+}
+
+.btn-span {
+    color: #4D5AE5;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 150%;
+    /* 24/16 */
+    letter-spacing: 0.04em;
+    text-align: center;
+}
+
+/* ------------SELL------------- */
+.sell {
+    border: 1px solid #E7E9FC;
+    border: 1px;
+}
+
+.sell-list {}
+
+.sell-item {
+    width: 360px;
+    height: 420px;
+    top: 288px;
+    left: 156px;
+    padding: 0px 0px 32px 0px;
+    border: 1px solid #E7E9FC;
+    border: 1px;
+}
+
+.sell-subtitle {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 120%;
+    /* 24/20 */
+    letter-spacing: 0.02em;
+}
+
+.sell-item-text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+    /* 24/16 */
+    letter-spacing: 0.02em;
+}
