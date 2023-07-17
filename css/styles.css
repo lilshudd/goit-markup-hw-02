@@ -65,6 +65,24 @@ address{
     letter-spacing: 0.02em;
 }
 
+.header-link-1{
+    color: #2E2F42;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 150%;
+    /* 24/16 */
+    letter-spacing: 0.02em;
+}
+
+.header-soc-link{
+    color: #434455;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 150%;
+    /* 24/16 */
+    letter-spacing: 0.02em;
+}
+
 .header-link-1:hover{
     color: #404bbf;
 }
