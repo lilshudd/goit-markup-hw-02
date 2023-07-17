@@ -65,7 +65,11 @@ address{
     letter-spacing: 0.02em;
 }
 
-.header-menu-item-1:hover{
+header-menu-item-1:hover{
+    color: #404bbf;
+}
+
+header-soc-item-1:hover{
     color: #404bbf;
 }
 
