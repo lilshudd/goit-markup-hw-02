@@ -5,10 +5,6 @@ body {
     background-color: #FFFFFF;
 }
 
-address{
-    font-style: normal;
-}
-
 :root {
     font-family: 'Raleway', sans-serif;
     font-family: 'Roboto', sans-serif;
@@ -97,6 +93,10 @@ address{
 
 .header-link:first-child:focus{
     color: #404bbf;
+}
+
+.address{
+    font-style: normal;
 }
 
 /* ------------HERO------------- */
