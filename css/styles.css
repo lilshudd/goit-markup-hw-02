@@ -1,12 +1,12 @@
 body {
     font-family: 'Raleway', sans-serif;
     font-family: 'Roboto', sans-serif;
-    color: #434455;
+    color: var(--main-cl);
     background-color: #FFFFFF;
 }
 
 :root {
-    background-color: #FFFFFF;
+    --main-cl: #434455;
 }
 
 .link {
@@ -144,10 +144,6 @@ body {
 
 /* ------------PROJECT------------- */
 
-.project {}
-
-.project-list {}
-
 .project-subtitle {
     color: #2E2F42;
     font-size: 20px;
@@ -168,7 +164,6 @@ body {
 }
 
 /* ------------DEVICES------------- */
-.devices {}
 
 .dev-title {
     color: #2E2F42;
@@ -180,10 +175,6 @@ body {
     text-transform: capitalize;
     text-align: center;
 }
-
-.dev-list {}
-
-.dev-photo {}
 
 /* ------------TEAM------------- */
 
@@ -202,8 +193,6 @@ body {
     text-transform: capitalize;
     text-align: center;
 }
-
-.team-list {}
 
 .team-item {
     background-color: #FFFFFF;
